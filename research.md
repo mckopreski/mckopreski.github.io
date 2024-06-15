@@ -11,10 +11,5 @@ type surfaces and other Polish groups.
 ## Papers and preprints 
 
 {% for item in site.data.publications %}
-1. _<u>{{ item.title }}</u>_.
-{{ item.cite }} 
-{% if item.coauthors %}(with {{ item.coauthors }}){% endif %} 
-{% if item.arxiv %}[arxiv](https://arxiv.org/abs/{{ item.arxiv }}){%
-endif %}
-{% if item.pdf %}[pdf]({{ item.pdf }}){% endif %}
+1. _<u>{{ item.title }}</u>_. {{ item.cite }}{% if item.coauthors %} (with {{ item.coauthors }}){% endif %}{% if item.arxiv %} [[arXiv]](https://arxiv.org/abs/{{ item.arxiv }}){% endif %}{% if item.pdf %} [[pdf]]({{ item.pdf }}){% endif %}
 {% endfor %}
