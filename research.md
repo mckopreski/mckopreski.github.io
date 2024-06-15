@@ -11,7 +11,7 @@ type surfaces and other Polish groups.
 ## Papers and preprints 
 
 {% for item in site.data.publications %}
-1. _<u>{{ item.title }}.</u>_
+1. _<u>{{ item.title }}</u>_.
 {{ item.cite }} {% if item.coauthors %}(with {{ item.coauthors }}){% endif %} 
 {% if item.pdf %}[preprint]({{
 item.pdf }}).{% endif %}

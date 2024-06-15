@@ -1,17 +1,17 @@
 - title: Maximum average degree and relaxed coloring 
   coauthors: G. Yu
-  cite: _Discrete Mathematics_ *340* (2017) pp. 2528--2530.
+  cite: _Discrete Mathematics_ **340** (2017) pp. 2528--2530.
   year: 2017
 - title: Prescribed arc graphs
-  cite: Submitted. [arXiv:2305.05316](https://arxiv.org/abs/2305.05316).
+  cite: Submitted (2023). [arXiv:2305.05316](https://arxiv.org/abs/2305.05316).
   year: 2023a
   #pdf: /assets/pdf/pac.pdf
 - title: Multiarc and curve graphs are hierarchically hyperbolic
-  cite: Submitted. [arXiv:2311.04356](https://arxiv.org/abs/2311.04356). 
+  cite: Submitted (2023). [arXiv:2311.04356](https://arxiv.org/abs/2311.04356). 
   year: 2023b
   #pdf: /assets/pdf/hhs_gen.pdf
 - title: The asymptotic dimension of the grand arc graph is infinite
-  cite: Submitted. [arXiv:2402.03603](https://arxiv.org/abs/2402.03603).
+  cite: Submitted (2024). [arXiv:2402.03603](https://arxiv.org/abs/2402.03603).
   year: 2024a
   #pdf: /assets/pdf/ga_asdim.pdf
 - title: Ivanov's theorem for infinite graphs
