@@ -4,7 +4,7 @@ title: Research
 ---
 
 I am interested in geometric group theory and low dimensional
-topology.  In particular, I am working on describing the geometric
+topology.  My current research aims to describe the geometric
 and topological structure of the mapping class groups of infinite
 type surfaces and other Polish groups.
 
