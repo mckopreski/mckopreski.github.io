@@ -2,18 +2,23 @@
   coauthors: G. Yu
   cite: _Discrete Mathematics_ **340** (2017) pp. 2528--2530.
   year: 2017
+  pdf: /assets/pdf/mad.pdf
+  arxiv: 1806.07021
 - title: Prescribed arc graphs
   cite: Submitted (2023). [arXiv:2305.05316](https://arxiv.org/abs/2305.05316).
   year: 2023a
-  #pdf: /assets/pdf/pac.pdf
+  #arxiv: 2305.05316
+  pdf: /assets/pdf/pac.pdf
 - title: Multiarc and curve graphs are hierarchically hyperbolic
   cite: Submitted (2023). [arXiv:2311.04356](https://arxiv.org/abs/2311.04356). 
   year: 2023b
-  #pdf: /assets/pdf/hhs_gen.pdf
+  pdf: /assets/pdf/hhs_gen.pdf
+  #arxiv: 2311.04356
 - title: The asymptotic dimension of the grand arc graph is infinite
   cite: Submitted (2024). [arXiv:2402.03603](https://arxiv.org/abs/2402.03603).
   year: 2024a
-  #pdf: /assets/pdf/ga_asdim.pdf
+  #arxiv: 2402.03603
+  pdf: /assets/pdf/ga_asdim.pdf
 - title: Ivanov's theorem for infinite graphs
   cite: In preparation.
   coauthors: T. Hill, R. Rechkin, G. Shaji, and B. Udall

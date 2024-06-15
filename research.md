@@ -12,7 +12,9 @@ type surfaces and other Polish groups.
 
 {% for item in site.data.publications %}
 1. _<u>{{ item.title }}</u>_.
-{{ item.cite }} {% if item.coauthors %}(with {{ item.coauthors }}){% endif %} 
-{% if item.pdf %}[preprint]({{
-item.pdf }}).{% endif %}
+{{ item.cite }} 
+{% if item.coauthors %}(with {{ item.coauthors }}){% endif %} 
+{% if item.arxiv %}[arxiv](https://arxiv.org/abs/{{ item.arxiv }}){%
+endif %}
+{% if item.pdf %}[pdf]({{ item.pdf }}){% endif %}
 {% endfor %}
