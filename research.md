@@ -8,11 +8,11 @@ topology.  In particular, I am working on describing the geometric
 and topological structure of the mapping class groups of infinite
 type surfaces and other Polish groups.
 
-## Publications
+## Papers and preprints 
 
 {% for item in site.data.publications %}
-1. "{{ item.title }}." \
-{{ item.cite }} {% if item.coauthors %}_(Joint work
-with {{ item.coauthors }})_{% endif %} {% if item.pdf %}[preprint]({{
+1. _<u>{{ item.title }}.</u>_
+{{ item.cite }} {% if item.coauthors %}(with {{ item.coauthors }}){% endif %} 
+{% if item.pdf %}[preprint]({{
 item.pdf }}).{% endif %}
 {% endfor %}
