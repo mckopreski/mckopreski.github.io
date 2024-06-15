@@ -1,20 +1,20 @@
 - courseno: Math 1320
-  term: spring 2024
+  term: Spring 2024
   name: Calculus II for Engineers
-  role: instructor
+  role: Instructor
 - courseno: Math 3140
-  term: spring 2023
+  term: Spring 2023
   name: Vector Calculus and PDEs for Engineers
-  role: lab TA
+  role: Lab TA
 - courseno: Math 1320
-  term: fall 2022
+  term: Fall 2022
   name: Calculus II for Engineers
-  role: instructor
+  role: Instructor
 - courseno: Math 1060
-  term: fall 2021
+  term: Fall 2021
   name: Trigonometry
-  role: instructor
+  role: Instructor
 - courseno: Math 1320
-  term: spring 2021
+  term: Spring 2021
   name: Calculus II for Engineers
-  role: lab TA
+  role: Lab TA
