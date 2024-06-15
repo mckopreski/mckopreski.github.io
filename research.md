@@ -13,5 +13,5 @@ type surfaces and other Polish groups.
 {% for item in site.data.publications %}
 1 "{{ item.title }}." {{ item.cite }} {% if item.coauthors %}_(Joint work
 with {{ item.coauthors }})_{% endif %} {% if item.pdf %}[preprint]({{
-item.pdf }})
+item.pdf }}).{% endif %}
 {% endfor %}
