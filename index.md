@@ -7,4 +7,6 @@ studying geometric and low dimensional topology.
 My advisor is Mladen Bestvina.
 
 My office is JWB 118.  You can contact me at
-[kopreski@math.utah.edu](mailto:kopreski@math.utah.edu).
+[kopreski@math.utah.edu](mailto:kopreski@math.utah.edu).  
+
+My CV is [here](/assets/pdf/cv_2024.pdf).
