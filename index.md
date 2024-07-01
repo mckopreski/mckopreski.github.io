@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About
 ---
 
 I am a fifth year mathematics Ph.D. student at the University of Utah
