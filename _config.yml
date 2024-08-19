@@ -18,6 +18,11 @@ defaults:
       sitemap: false
   -
     scope:
+      path: "google*"
+    values:
+      sitemap: false
+  -
+    scope:
       path: "assets"
     values:
       sitemap: false
