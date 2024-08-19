@@ -1,3 +1,7 @@
 title: Michael C. Kopreski
 logo: /assets/img/surfaces.png
 theme: jekyll-theme-minimal
+url: https://mckopreski.github.io
+plugins:
+  - jekyll-sitemap
+
