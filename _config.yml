@@ -5,3 +5,14 @@ url: https://mckopreski.github.io
 plugins:
   - jekyll-sitemap
 
+defaults:
+  -
+    scope:
+      path: "test"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "sa"
+    values:
+      sitemap: false
