@@ -1,7 +1,9 @@
 - title: Ivanov's theorem for infinite graphs
-  cite: In preparation.
+  cite: Preprint (2024). #[arXiv:](https://arxiv.org/abs/).
   coauthors: T. Hill, R. Rechkin, G. Shaji, and B. Udall
   year: 2024b
+  #arxiv:
+  pdf: /assets/pdf/aut_sphere.pdf
 - title: The asymptotic dimension of the grand arc graph is infinite
   cite: Submitted (2024). [arXiv:2402.03603](https://arxiv.org/abs/2402.03603).
   year: 2024a
