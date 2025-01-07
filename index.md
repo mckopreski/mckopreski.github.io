@@ -12,4 +12,4 @@ My office is JWB 118.  You can contact me at
 
 My CV is [here](/assets/pdf/cv_2024.pdf).
 
-![A picture of me in Skye](/assets/img/skye.png)
+![A picture of me in Skye](/assets/img/skye.jpg)
