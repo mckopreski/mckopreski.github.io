@@ -1,5 +1,5 @@
 - title: Geometric models and asymptotic dimension for infinite-type surface mapping class groups
-  cite: Preprint (2025). 
+  cite: Preprint (2025). [arXiv:2508.06679](https://arxiv.org/abs/2508.06679). 
   coauthors: G. Shaji
   year: 2025
   #arxiv:
@@ -21,9 +21,9 @@
   pdf: /assets/pdf/hhs_gen_rev_v2.pdf
   #arxiv: 2311.04356
 - title: Prescribed arc graphs
-  cite: Submitted (2023). [arXiv:2305.05316](https://arxiv.org/abs/2305.05316).
+  cite: _Geometriae Dedicata_ **219**, no. 60 (2025).
   year: 2023a
-  #arxiv: 2305.05316
+  arxiv: 2305.05316
   pdf: /assets/pdf/pac_v5.pdf
 - title: Maximum average degree and relaxed coloring 
   coauthors: G. Yu
