@@ -3,12 +3,13 @@ layout: default
 title: About
 ---
 
-I am a fifth year mathematics Ph.D. student at the University of Utah
-studying geometric and low dimensional topology.
-My advisor is Mladen Bestvina.
+I am a post-doctoral researcher studying geometric topology at UPV/EHU
+in Bilbao, Spain.  My mentor is Montse Casals-Ruiz.
 
-My office is JWB 118.  You can contact me at
-[kopreski@math.utah.edu](mailto:kopreski@math.utah.edu).  
+I completed my Ph.D. in 2025 at the University of Utah.
+My advisor was Mladen Bestvina.
+
+You can contact me at michaelkopreski [at] gmail [dot] com.
 
 My CV is [here](/assets/pdf/cv_2024.pdf).
 
