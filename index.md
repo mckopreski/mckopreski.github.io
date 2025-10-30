@@ -6,8 +6,8 @@ title: About
 I am a post-doctoral researcher studying geometric topology at UPV/EHU
 in Bilbao, Spain.  My mentor is Montse Casals-Ruiz.
 
-I completed my Ph.D. in 2025 at the University of Utah.
-My advisor was Mladen Bestvina.
+I completed my Ph.D. in 2025 at the University of Utah,
+advised by Mladen Bestvina.
 
 You can contact me at michaelkopreski [at] gmail [dot] com.
 
