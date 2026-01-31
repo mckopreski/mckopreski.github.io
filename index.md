@@ -11,6 +11,6 @@ advised by Mladen Bestvina.
 
 You can contact me at michaelkopreski [at] gmail [dot] com.
 
-<!--- My CV is [here](/assets/pdf/cv_2024.pdf). -->
+My CV is [here](/assets/pdf/cv_2026.pdf).
 
 ![A picture of me in Skye](/assets/img/skye.jpg)
